@@ -25,8 +25,6 @@ public class Main extends javax.swing.JFrame {
     
     public Main() {
         initComponents();
-        ImageIcon image = new ImageIcon("..\\ToDoList\\build\\classes\\assets\\logo.png");
-        this.setIconImage(image.getImage());
         jButton1.setEnabled(false);
         jButton2.setEnabled(false);
         jTable1.getTableHeader().setUI(null);
