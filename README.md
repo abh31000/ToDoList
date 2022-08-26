@@ -1,2 +1,2 @@
 First thing ever I upload to GitHub.
-A very simple GUI desktop application made with Java Swing
+The L&F is set to Windows L&F, so it will only run on Windows machines.
